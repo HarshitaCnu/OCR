@@ -1,2 +1,2 @@
 # OCR
-Optical Character Recognition implemented using OpenCV, Tensorflow, Keras
+Optical Character Recognition implemented using OpenCV, Numpy, Keras
